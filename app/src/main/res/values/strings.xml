@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">androidAlternativeResources</string>
+    <string name="textfield1">Texto </string>
+    <string name="textfield2">Texto </string>
+    <string name="button">Botao</string>
+</resources>
